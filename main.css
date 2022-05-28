@@ -1,3 +1,23 @@
 :root {
-  font-size: 100px;
+  font-size: 62.5%;
+}
+.icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+  width: 10rem;
+  height: 10rem;
+  border-radius: 10rem;
+  color: aqua;
+  border: 1px solid;
+}
+
+input {
+  display: inline-block;
+  width: 10rem;
+  height: 2rem;
+  background-color: blue;
+  color: aliceblue;
+  font-size: 15px;
 }
